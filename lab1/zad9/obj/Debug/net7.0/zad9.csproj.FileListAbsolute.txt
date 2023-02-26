@@ -1,0 +1,15 @@
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\bin\Debug\net7.0\zad9.exe
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\bin\Debug\net7.0\zad9.deps.json
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\bin\Debug\net7.0\zad9.runtimeconfig.json
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\bin\Debug\net7.0\zad9.dll
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\bin\Debug\net7.0\zad9.pdb
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\zad9.csproj.AssemblyReference.cache
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\zad9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\zad9.AssemblyInfoInputs.cache
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\zad9.AssemblyInfo.cs
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\zad9.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\zad9.dll
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\refint\zad9.dll
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\zad9.pdb
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\zad9.genruntimeconfig.cache
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad9\obj\Debug\net7.0\ref\zad9.dll

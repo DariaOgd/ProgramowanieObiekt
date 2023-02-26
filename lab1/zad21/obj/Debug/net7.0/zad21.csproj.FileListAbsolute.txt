@@ -1,0 +1,15 @@
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\zad21.csproj.AssemblyReference.cache
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\zad21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\zad21.AssemblyInfoInputs.cache
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\zad21.AssemblyInfo.cs
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\zad21.csproj.CoreCompileInputs.cache
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\bin\Debug\net7.0\zad21.exe
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\bin\Debug\net7.0\zad21.deps.json
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\bin\Debug\net7.0\zad21.runtimeconfig.json
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\bin\Debug\net7.0\zad21.dll
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\bin\Debug\net7.0\zad21.pdb
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\zad21.dll
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\refint\zad21.dll
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\zad21.pdb
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\zad21.genruntimeconfig.cache
+C:\Users\daria\Desktop\UG\AiB\Semestr2\ProgramowanieObiektowe\lab1\zad21\obj\Debug\net7.0\ref\zad21.dll
