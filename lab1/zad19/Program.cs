@@ -14,6 +14,8 @@ namespace Trojkat{
           Console.WriteLine(CzyRownoramienny(a,b,c));
           Console.Write("Czy skalenny: ");
           Console.WriteLine(CzySkalenny(a,b,c));
+
+          Console.ReadKey();
            
 
            

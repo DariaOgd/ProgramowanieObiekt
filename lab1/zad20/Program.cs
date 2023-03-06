@@ -14,6 +14,8 @@ namespace Oszczednosci{
            Console.WriteLine(AktulaizacjaSaldaRocznego(d));
            Console.WriteLine(IleLatPrzedOczekiwanymSaldem(d,201));
 
+           Console.ReadKey();
+
 
            
         }

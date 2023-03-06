@@ -9,6 +9,8 @@ namespace Liczby_zad17{
                 start--;
             }
 
+            Console.ReadKey();
+
            
 
            

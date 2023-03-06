@@ -43,6 +43,8 @@ namespace Delta{
                 Console.WriteLine("A nie może być 0!!");
                 Console.ReadKey();
             }
+
+            Console.ReadKey();
   
 
         }

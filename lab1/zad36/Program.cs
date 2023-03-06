@@ -27,6 +27,8 @@ namespace Sito{
       }
     }
     Console.WriteLine($"Jest {count} liczb pierwszych ze zbioru liczb do {MAX}");
+
+    Console.ReadKey();
             
 
 

@@ -26,6 +26,7 @@ namespace LiczbaPierwsza{
                     }
                 }
                 Console.WriteLine("Liczba {0} jest pierwsza", a);
+                Console.ReadKey();
 
             }
 

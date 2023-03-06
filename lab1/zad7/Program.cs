@@ -13,6 +13,8 @@ namespace Podatek{
             double brutto = podatek + c;
             Console.WriteLine("Cena brutto {0}", brutto);
             Console.WriteLine("Podatek wynosi {0}", podatek);
+
+            Console.ReadKey();
             
 
 

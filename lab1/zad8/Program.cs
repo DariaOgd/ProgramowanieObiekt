@@ -15,6 +15,7 @@ namespace Maksimum{
 
          max = (a > b) ? a : b;
          Console.WriteLine("Maksimum wynosi: " + max);
+         Console.ReadKey();
 
             
 

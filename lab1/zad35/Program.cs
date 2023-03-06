@@ -11,6 +11,8 @@ namespace TrojkatTekst{
 	            Console.Write("{0} ",k++);
 	            Console.Write("\n");
             }
+
+            Console.ReadKey();
              
              
 

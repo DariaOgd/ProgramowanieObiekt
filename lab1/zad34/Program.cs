@@ -16,6 +16,8 @@ namespace Reverse{
 
              Console.WriteLine(res);
 
+             Console.ReadKey();
+
 
             
     

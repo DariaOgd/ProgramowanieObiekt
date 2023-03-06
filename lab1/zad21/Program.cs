@@ -7,6 +7,8 @@ namespace Fib{
            Console.WriteLine("Fib({0}) (metoda iteracyjna) = {1}", n, Iteracja(n));
            Console.WriteLine("Fib({0}) (metoda rekurencyjna) = {1}", n, Rekurencja(n));
 
+           Console.ReadKey();
+
 
 
 

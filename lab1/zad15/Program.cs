@@ -11,6 +11,8 @@ namespace Imiona{
             Powiedz("Stanisława");
             Powiedz("Doroty");
             Powiedz("Michała");
+
+            Console.ReadKey();
            
 
            

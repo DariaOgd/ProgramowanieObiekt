@@ -21,6 +21,8 @@ namespace Pierwiastek{
             }
             Console.WriteLine("Pierwiastek wynosi {0}", x);
 
+            Console.ReadKey();
+
 
 
     

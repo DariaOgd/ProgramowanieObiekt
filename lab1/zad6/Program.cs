@@ -15,6 +15,8 @@ namespace Kolo{
             Console.WriteLine("Obwód wynosi {0}", obw);
             Console.WriteLine("Pole wynosi {0}", pole);
 
+            Console.ReadKey();
+
 
 
            

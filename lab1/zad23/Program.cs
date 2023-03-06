@@ -7,6 +7,8 @@ namespace SilniaRekurencja{
             Console.WriteLine("Podaj liczbę");
             int liczba1 = Int32.Parse(Console.ReadLine());
              Console.WriteLine(wyliczSilnie(liczba1));
+
+             Console.ReadKey();
   
 
         }

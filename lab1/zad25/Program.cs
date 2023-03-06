@@ -33,6 +33,7 @@ namespace SumaIloczyn{
     {
         Console.WriteLine(e.Message);   
 }
+Console.ReadKey();
 
 
 

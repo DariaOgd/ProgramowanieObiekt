@@ -1,7 +1,7 @@
 ﻿using System;
 
-namespace Program3{
-    class Program {
+namespace LiczbaParzyszta{
+    class LiczbaParzyszta {
         static void Main(string[] args){
             Console.WriteLine("Podaj liczbę:");
 
@@ -15,6 +15,8 @@ namespace Program3{
 
 
             }
+
+            Console.ReadKey();
 
            
         }

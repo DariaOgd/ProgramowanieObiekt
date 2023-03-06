@@ -19,6 +19,8 @@ namespace NWD{
             }
             Console.WriteLine("NWD wynosi {0}",a);
 
+            Console.ReadKey();
+
 
 
 

@@ -12,6 +12,8 @@ namespace Liczby{
                 
             }
 
+            Console.ReadKey();
+
            
 
            

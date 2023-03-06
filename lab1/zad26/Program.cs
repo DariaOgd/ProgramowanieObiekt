@@ -19,6 +19,8 @@ namespace SzyfrCezara{
         Console.WriteLine("\n");
         Console.WriteLine(input);
 
+        Console.ReadKey();
+
         
  
 

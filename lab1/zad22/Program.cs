@@ -6,9 +6,7 @@ namespace Katalogi{
 
             DirSearch(Environment.CurrentDirectory, " ");
    
-
-
-           
+    
         }
 
         static void DirSearch(string sDir,string wciecie)

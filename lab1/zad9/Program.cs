@@ -1,7 +1,7 @@
 ﻿using System;
 
-namespace Maksimum{
-    class Maksimum {
+namespace Maksimum2{
+    class Maksimum2 {
         static void Main(string[] args){
             int a;
             int b;
@@ -25,6 +25,8 @@ namespace Maksimum{
 
          max = (x1 > x2) ? x1 : x2;
          Console.WriteLine("Maksimum wynosi: " + max);
+
+         Console.ReadKey();
 
             
 

@@ -1,7 +1,7 @@
 ﻿using System;
 
-namespace Program{
-    class Program {
+namespace Silnia1{
+    class Silnia1 {
         static void Main(string[] args){
             Console.WriteLine("Zad2");
             Console.WriteLine("Podaj liczbę");
@@ -13,6 +13,7 @@ namespace Program{
 
             }
             Console.WriteLine(helper);
+            Console.ReadKey();
 
         }
         static int silnia(int a){

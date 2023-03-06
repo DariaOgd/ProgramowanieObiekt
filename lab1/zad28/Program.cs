@@ -16,6 +16,7 @@ namespace Nieparzysta{
            }
            Console.WriteLine("Czy tablica posiada liczby nieparzyste?");
            Console.WriteLine(posiadaNieparzystosc);
+           Console.ReadKey();
 
 
 

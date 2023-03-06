@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Katalogi{
+namespace Macierz{
     class Macierz {
         static void Main(string[] args){
         int i, j;
@@ -10,6 +10,9 @@ namespace Katalogi{
             int[,] a = new int[N, M];
             Console.WriteLine("Podaj wymiary 2x3");
             for (i = 0; i < N; i++)
+
+
+            
             {
                 for (j = 0; j < M; j++)
                 {
@@ -28,7 +31,7 @@ namespace Katalogi{
 
 
             int[,] b = new int[N, M];
-            Console.WriteLine("Enter no for 2*2 matrix");
+            Console.WriteLine("Podaj macierzy drugiej");
             for (i = 0; i < N; i++)
             {
                 for (j = 0; j< M; j++)
@@ -69,6 +72,8 @@ namespace Katalogi{
                 }
                 Console.WriteLine();
             }
+
+            Console.ReadKey();
 
 
 

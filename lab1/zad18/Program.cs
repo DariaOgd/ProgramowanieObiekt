@@ -1,7 +1,7 @@
 ﻿using System;
 
-namespace Liczby_zad17{
-    class Liczby_zad17 {
+namespace Liczby_zad18{
+    class Liczby_zad18 {
         static void Main(string[] args){
             int liczba = 100;
             do {
@@ -9,6 +9,8 @@ namespace Liczby_zad17{
                 liczba--;
             }
             while(liczba > 0);
+
+            Console.ReadKey();
            
 
            

@@ -14,6 +14,7 @@ namespace Wyrazenie{
 
             double v = (4*x-y)/(3*((z*z)+1));
             Console.WriteLine(v);
+            Console.ReadKey();
 
 
            

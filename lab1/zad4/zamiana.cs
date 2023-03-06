@@ -14,6 +14,7 @@ namespace zamiana{
             a=b;
             b = tmp;
             Console.WriteLine("a :" + a + " b: " + b);
+            Console.ReadKey();
 
 
            

@@ -49,6 +49,8 @@ namespace MaxMin{
             Console.WriteLine();
             Console.Write("Najmniejsza liczba znajduje się na indeksie {0} i wynosi {1}, ",indx2, min);
 
+            Console.ReadKey();
+
 
 
 

@@ -26,6 +26,8 @@ namespace Zamiana{
 
              Console.WriteLine(res);
 
+             Console.ReadKey();
+
 
             
     
